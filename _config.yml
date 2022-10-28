@@ -1,8 +1,14 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme 
-title: Abby Das
-description: [A short description of your site's purpose]
+- jekyll-remote-theme
+# Site settings
+title: Project Pages
+description: "An Integrated Scientific Blogging Template"
+url: "https://projectpages.github.io"
+
+
+
+
 # Secondary Parameters
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
